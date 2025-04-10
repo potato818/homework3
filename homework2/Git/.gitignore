@@ -1,0 +1,56 @@
+# 忽略系統資料夾
+$RECYCLE.BIN/
+System Volume Information/
+
+# 忽略其他不需要的資料夾
+060/
+7-Zip/
+CPUZ/
+EPIC/
+JAVA/
+LDPlayer/
+Locale Emulator/
+NIKKE_HMT/
+OBS/
+RPG master/
+SteamLibrary/
+Wuthering Waves/
+arduino/
+ce/
+forge/
+nobody/
+office/
+osu!/
+rainbowsix x sige/
+six/
+.vscode/
+
+# 忽略不需要的資料夾
+bin/
+cmd/
+dev/
+etc/
+mingw64/
+usr/
+
+# 忽略編譯檔案或安裝檔案
+unins000.dat
+unins000.exe
+unins000.msg
+
+# 忽略 Git 系統檔案
+.DS_Store
+Thumbs.db
+
+# 忽略一些不必要的檔案
+*.log
+*.tmp
+*.swp
+
+# 忽略這些檔案
+LICENSE.txt
+
+ReleaseNotes.html
+app.py
+git-bash.exe
+git-cmd.exe
